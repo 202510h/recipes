@@ -1,6 +1,2 @@
-# Products
-- celery £4
-- carrots £2
-- onions £3
-- spring onions £2
-# Market Price
+peas £1.50 £1.75
+onions £3 £2.30
